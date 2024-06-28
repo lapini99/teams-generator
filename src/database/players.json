@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Juma Fernández",
+        "position": "Midfielder",
+        "traits": {
+            "Speed": 90,
+            "Shooting": 95,
+            "Passing": 92,
+            "Defense": 38,
+            "Dribbling": 96,
+            "Physical": 65
+        }
+    },
+    {
+        "name": "Alessandro Lapini",
+        "position": "Defender",
+        "traits": {
+            "Speed": 87,
+            "Shooting": 94,
+            "Passing": 82,
+            "Defense": 35,
+            "Dribbling": 88,
+            "Physical": 80
+        }
+    },
+    {
+        "name": "Jeanphy",
+        "position": "Defender",
+        "traits": {
+            "Speed": 76,
+            "Shooting": 85,
+            "Passing": 93,
+            "Defense": 60,
+            "Dribbling": 85,
+            "Physical": 75
+        }
+    },
+    {
+        "name": "Marcos Rodríguez",
+        "position": "Forward",
+        "traits": {
+            "Speed": 77,
+            "Shooting": 65,
+            "Passing": 80,
+            "Defense": 92,
+            "Dribbling": 82,
+            "Physical": 83
+        }
+    },
+    {
+        "name": "Luke Towers",
+        "position": "Defender",
+        "traits": {
+            "Speed": 77,
+            "Shooting": 60,
+            "Passing": 70,
+            "Defense": 92,
+            "Dribbling": 72,
+            "Physical": 86
+        }
+    },
+    {
+        "name": "Alex Madrigal",
+        "position": "Midfielder",
+        "traits": {
+            "Speed": 50,
+            "Shooting": 25,
+            "Passing": 60,
+            "Defense": 15,
+            "Dribbling": 40,
+            "Physical": 85
+        }
+    }
+]
