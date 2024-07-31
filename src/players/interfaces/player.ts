@@ -5,10 +5,10 @@ export interface Player {
 }
 
 export interface Traits {
-    speed:     number;
-    shooting:  number;
-    passing:   number;
-    defense:   number;
-    dribbling: number;
-    physical:  number;
+    speed:     number | string;
+    shooting:  number | string;
+    passing:   number | string;
+    defense:   number | string;
+    dribbling: number | string;
+    physical:  number | string;
 }

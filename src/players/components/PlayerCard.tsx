@@ -2,6 +2,7 @@ import Link from "next/link"
 import { Player } from "../interfaces/player";
 import Image from "next/image";
 import { IoHeartOutline } from "react-icons/io5";
+import placeHolderImage from "../../images/players/lapini.png";
 
 interface Props {
     player: Player;
@@ -17,7 +18,7 @@ export const PlayerCard = ({ player }: Props) => {
                 <div className="flex flex-col items-center justify-center text-center p-6 bg-gray-800 border-b">
                     <Image
                         key={player.name}
-                        src="../../images/players/lapini.png"
+                        src={placeHolderImage}
                         width={100}
                         height={100}
                         alt={player.name}
