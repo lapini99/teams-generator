@@ -3,24 +3,24 @@
         "name": "Juma Fernández",
         "position": "Midfielder",
         "traits": {
-            "speed": 90,
-            "shooting": 95,
-            "passing": 92,
-            "defense": 38,
-            "dribbling": 96,
-            "physical": 65
+            "speed": 80,
+            "shooting": 75,
+            "passing": 90,
+            "defense": 74,
+            "dribbling": 76,
+            "physical": 75
         }
     },
     {
         "name": "Alessandro Lapini",
         "position": "Defender",
         "traits": {
-            "speed": 87,
-            "shooting": 94,
-            "passing": 82,
-            "defense": 35,
-            "dribbling": 88,
-            "physical": 80
+            "speed": 77,
+            "shooting": 65,
+            "passing": 86,
+            "defense": 80,
+            "dribbling": 72,
+            "physical": 84
         }
     },
     {

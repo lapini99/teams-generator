@@ -9,13 +9,13 @@ const menuItems = [
         path: "/dashboard/main",
         icon: <IoBrowsersOutline size={25} />,
         title: "Dashboard",
-        subTitle: "Visualización"
+        subTitle: ""
     },
     {
         path: "/dashboard/generator",
         icon: <BiFootball size={25} />,
         title: "Team generator",
-        subTitle: "Contador Client Side"
+        subTitle: ""
     },
     {
         path: "/dashboard/players",

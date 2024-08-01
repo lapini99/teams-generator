@@ -7,7 +7,7 @@ interface Props {
 
 export const PlayersGrid = ({players}: Props) => {
     return (
-        <div className="flex flex-wrap gap-10 items-center justify-center">
+        <div className="flex flex-wrap gap-4 items-center justify-center">
             {players.map(player => (
                 <PlayerCard key={player.name} player={player}/>
             ))}

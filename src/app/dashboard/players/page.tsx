@@ -1,3 +1,5 @@
+"use client"
+
 import { PlayersGrid } from '@/players/components/PlayerGrid'
 import React from 'react'
 import db from "@/database/players.json"
